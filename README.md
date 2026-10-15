@@ -1,5 +1,4 @@
 # InventraX-ERP
-# InventraX ERP
 
 <p align="center">
   <img src="docs/images/logo.png" alt="InventraX ERP Logo" width="180">
